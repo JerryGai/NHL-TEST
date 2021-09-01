@@ -1,6 +1,6 @@
 # nhl_2019_playoffs
 
-A new Flutter project.
+NHL 2019 Playoffs. Coding Test. :)
 
 ## Getting Started
 
